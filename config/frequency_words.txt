@@ -1,113 +1,27 @@
-胖东来
-于东来
+美股 纳斯达克 道琼斯 标普500 中概股
 
-DeepSeek
-梁文锋
+加密货币 比特币 BTC 以太坊 ETH 币圈 交易所
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+AI 人工智能 ChatGPT GPT OpenAI 大模型 英伟达 芯片
 
-比亚迪
-王传福
+金融 银行 利率 降息 加息 债券 股市
 
-大疆
-DJI
+经济 GDP 通胀 CPI 失业率 衰退 就业
 
-宇树
-王兴兴
+黄金 金价 贵金属 避险
 
-智元
-灵犀
-稚晖君
-彭志辉
+美联储 Fed 鲍威尔 货币政策 量化宽松
 
-黑神话
-冯骥
+特朗普 Trump 共和党 美国大选 关税
 
-影之刃零
-梁其伟
+马斯克 Musk 特斯拉 Tesla SpaceX 推特 X
 
-哪吒
-饺子
-杨宇
-!车
-!餐
+印度 莫迪 孟买 印度股市 卢比 塔塔
 
-三体
-流浪地球
-刘慈欣
-郭帆
+日本 日元 日经 日本央行 岸田 东京
 
-申奥
+新加坡 星展银行 淡马锡 李显龙 新币
 
-京东
-刘强东
+谷歌 Google Gemini 安卓 Android Chrome YouTube Waymo
 
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+太空 航天 火箭 卫星 NASA 星链 Starlink 嫦娥 空间站
